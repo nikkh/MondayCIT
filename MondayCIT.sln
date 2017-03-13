@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MondayCIT", "MondayCIT\MondayCIT.csproj", "{3BE57B6F-A602-42F8-B1E1-5CC61D125270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MondayCIT.Tests", "MondayCIT.Tests\MondayCIT.Tests.csproj", "{4EB19CC0-07AC-4092-B426-8BB2B4CECDA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE57B6F-A602-42F8-B1E1-5CC61D125270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE57B6F-A602-42F8-B1E1-5CC61D125270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE57B6F-A602-42F8-B1E1-5CC61D125270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE57B6F-A602-42F8-B1E1-5CC61D125270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB19CC0-07AC-4092-B426-8BB2B4CECDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB19CC0-07AC-4092-B426-8BB2B4CECDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB19CC0-07AC-4092-B426-8BB2B4CECDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB19CC0-07AC-4092-B426-8BB2B4CECDA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
